@@ -21,7 +21,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="px-5 py-2 rounded-full border border-brand-500/30 bg-brand-500/10 text-brand-300 text-sm font-medium mb-8 inline-block backdrop-blur-sm"
         >
-          Graduate Software Engineer • Annual Appraisal
+          Graduate Software Engineer • My portfolio
         </motion.span>
         
         <motion.h1 
@@ -30,7 +30,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-5xl md:text-7xl font-bold mb-6 tracking-tight leading-tight"
         >
-          My One-Year <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-cyan-300">Journey</span>
+          My Experience  <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-cyan-300">Journey</span>
         </motion.h1>
 
         <motion.p 
